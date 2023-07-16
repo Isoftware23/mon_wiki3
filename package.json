@@ -1,0 +1,23 @@
+{
+  "name": "mon_wiki3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "jquery": "^3.6.1"
+  },
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isoftware23/mon_wiki3.git"
+  },
+  "author": "ski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isoftware23/mon_wiki3/issues"
+  },
+  "homepage": "https://github.com/Isoftware23/mon_wiki3#readme"
+}
